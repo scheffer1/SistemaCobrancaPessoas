@@ -1,0 +1,15 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\bin\Debug\net6.0\SistemaCobrancaPessoas.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\bin\Debug\net6.0\SistemaCobrancaPessoas.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\bin\Debug\net6.0\SistemaCobrancaPessoas.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\bin\Debug\net6.0\SistemaCobrancaPessoas.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\bin\Debug\net6.0\SistemaCobrancaPessoas.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\refint\SistemaCobrancaPessoas.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\SistemaCobrancaPessoas.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobrancaPessoas\obj\Debug\net6.0\ref\SistemaCobrancaPessoas.dll

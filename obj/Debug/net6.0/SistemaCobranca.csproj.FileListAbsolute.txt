@@ -1,0 +1,30 @@
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.exe
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.deps.json
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.runtimeconfig.json
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.dll
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.pdb
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.csproj.AssemblyReference.cache
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.AssemblyInfoInputs.cache
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.AssemblyInfo.cs
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.csproj.CoreCompileInputs.cache
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.dll
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\refint\SistemaCobranca.dll
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.pdb
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.genruntimeconfig.cache
+C:\Users\rafael.santos\Desktop\Ulbra\2022-1\programacao_orientada_objetos\SistemaCobranca\obj\Debug\net6.0\ref\SistemaCobranca.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\bin\Debug\net6.0\SistemaCobranca.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\refint\SistemaCobranca.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\SistemaCobranca.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\meusprojetos\SistemaCobranca\obj\Debug\net6.0\ref\SistemaCobranca.dll
